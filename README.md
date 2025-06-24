@@ -13,21 +13,21 @@
 
 - 🤝 I’m looking for help with **Writing articles on AI in Healthcare and Navigation**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+- 👨‍💻 All of my projects are available at My Portfolio
 
-- 📝 I regularly write articles on [My Blog](My Blog)
+- 📝 I regularly write articles on My Blog
 
 - 💬 Ask me about **AI, Python and Embedded Systems**
 
 - 📫 How to reach me **shreydahiya75@gmail.com**
 
-- 📄 Know about my experiences [My Resume](My Resume)
+- 📄 Know about my experiences My Resume
 
 - ⚡ Fun fact **I like Batman and Spiderman and for some reason obsessed with Movie Recaps 😢**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shrey dahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey dahiya" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shrey dahiya](https://www.linkedin.com/in/shrey-dahiya-82730b300/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey dahiya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrey47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrey47" height="30" width="40" /></a>
 </p>
 
