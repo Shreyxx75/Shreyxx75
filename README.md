@@ -36,7 +36,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,arduino,bootstarp,c,cpp,css,django,docker,figma,git,html,js,jquery,laravel,matlab,mangodb,mysql,nextjs,nodejs,php,postgres,pycharm,py,rasberrypi,react,sass,sqlite,tailwind,tenserflow,threejs,vscode,vue,windows" />
+    <img src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,c,cpp,css,django,docker,figma,git,html,js,jquery,laravel,matlab,mongodb,mysql,nextjs,nodejs,php,postgres,pycharm,py,raspberrypi,react,sass,sqlite,tailwind,tenserflow,threejs,vscode,vue,windows" />
   </a>
 </p>
 <hr>
