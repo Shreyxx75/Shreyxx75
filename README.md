@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Shrey Dahiya, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Shrey Dahiya, Research Student & AI/ML Engineer & Web Developer from India
   <br>
   <br>
   🔬 I'm currently studying for my Master's at Touro University, Graduate School of Technology
