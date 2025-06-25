@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <code><a href="https://leetcode.com/u/Dhruva47/"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo"/></a></code>
+  <code><a href="https://leetcode.com/u/Dhruva47/"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a></code>
   <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300"><img width="50" height="50" src="https://img.icons8.com/pulsar-line/48/linkedin-circled.png" alt="linkedin-circled"/></a></code>
   <code><a href="https://www.instagram.com/Shreyxx75/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/></a></code>
 </p>
