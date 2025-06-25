@@ -7,10 +7,12 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300/" title="LinkedIn Profile"><img width="22" src="![image](https://github.com/user-attachments/assets/66fcbc1b-cb90-4adf-abdb-5a3854a9d16b)
-"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://leetcode.com/u/Dhruva47/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"/></a></code>
+  <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a></code>
+  <code><a href="shreydahiya75@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a></code>
   <code><a href="https://www.instagram.com/shreyxx75/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a></code>
 </h5>
