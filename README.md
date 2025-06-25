@@ -8,11 +8,11 @@
 
 <p align="center">
   <code><a href="https://leetcode.com/u/Dhruva47/"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a></code>
-  <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300"><img width="50" height="50" src="https://img.icons8.com/pulsar-line/48/linkedin-circled.png" alt="linkedin-circled"/></a></code>
-  <code><a href="https://www.instagram.com/Shreyxx75/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/></a></code>
+  <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300"><img width="50" height="50" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a></code>
+  <code><a href="https://www.instagram.com/Shreyxx75/"><img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a></code>
 </p>
 <br>
-<p align="center">
+<h1 align="center">
   Hi, I'm Shrey Dahiya, Research Student & AI/ML Engineer & Web Developer from the US
   <br>
   <br>
@@ -27,7 +27,7 @@
   💬 Ask me anything about from <a href="https://github.com/Shreyxx75/Shreyxx75/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: shreydahiya75@gmail.com">shreydahiya75@gmail.com</a>
-</p>
+</h1>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
