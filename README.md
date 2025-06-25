@@ -9,6 +9,7 @@
 <h1 align="center">
   <code><a href="https://leetcode.com/u/Dhruva47/"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a></code>
   <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300"><img width="50" height="50" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a></code>
+  <code><a href="https://www.hackerrank.com/profile/shreydahiya75"><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a></code>
   <code><a href="https://www.instagram.com/Shreyxx75/"><img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a></code>
 </h1>
 <br>
