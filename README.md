@@ -1,61 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-  <style>
-    .link-icon-wrapper {
-      display: inline-block;
-    }
-
-    .link-icon {
-      position: relative;
-      display: inline-block;
-      width: 60px;
-      height: 30px;
-    }
-
-    .link-icon::before,
-    .link-icon::after {
-      content: "";
-      position: absolute;
-      border: 4px solid black;
-      border-radius: 50%;
-      width: 30px;
-      height: 30px;
-      top: 0;
-    }
-
-    .link-icon::before {
-      left: 0;
-    }
-
-    .link-icon::after {
-      right: 0;
-    }
-
-    .link-bar {
-      position: absolute;
-      top: 50%;
-      left: 15px;
-      width: 30px;
-      height: 4px;
-      background: black;
-      transform: translateY(-50%) rotate(20deg);
-    }
-  </style>
-</head>
-<body>
-
-  <!-- Replace the '#' below with your actual link -->
-  <a href="#" class="link-icon-wrapper" target="_blank">
-    <div class="link-icon">
-      <div class="link-bar"></div>
-    </div>
-  </a>
-
-</body>
-</html>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shreyxx75.Shreyxx75">
 
 <h1 align="center">
@@ -71,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a></code>
   <code><a href="shreydahiya75@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a></code>
-  <code><a href="https://www.instagram.com/Shreyxx75/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a></code>
+  <code><a href="https://www.instagram.com/Shreyxx75/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/></a></code>
 </h5>
 <br>
 <p align="center">
