@@ -1,3 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    .link-icon-wrapper {
+      display: inline-block;
+    }
+
+    .link-icon {
+      position: relative;
+      display: inline-block;
+      width: 60px;
+      height: 30px;
+    }
+
+    .link-icon::before,
+    .link-icon::after {
+      content: "";
+      position: absolute;
+      border: 4px solid black;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      top: 0;
+    }
+
+    .link-icon::before {
+      left: 0;
+    }
+
+    .link-icon::after {
+      right: 0;
+    }
+
+    .link-bar {
+      position: absolute;
+      top: 50%;
+      left: 15px;
+      width: 30px;
+      height: 4px;
+      background: black;
+      transform: translateY(-50%) rotate(20deg);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Replace the '#' below with your actual link -->
+  <a href="#" class="link-icon-wrapper" target="_blank">
+    <div class="link-icon">
+      <div class="link-bar"></div>
+    </div>
+  </a>
+
+</body>
+</html>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shreyxx75.Shreyxx75">
 
 <h1 align="center">
