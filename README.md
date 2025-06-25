@@ -6,15 +6,14 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://leetcode.com/u/Dhruva47/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"/></a></code>
+<p align="center">
+  <code><a href="https://leetcode.com/u/Dhruva47/"><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-bold-tal-revivo"/></a></code>
   <code><a href="www.linkedin.com/in/shrey-dahiya-82730b300" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a></code>
   <code><a href="shreydahiya75@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a></code>
   <code><a href="https://www.instagram.com/Shreyxx75/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/></a></code>
-</h5>
+</p>
 <br>
 <p align="center">
   Hi, I'm Shrey Dahiya, Research Student & AI/ML Engineer & Web Developer from the US
